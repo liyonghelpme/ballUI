@@ -61,5 +61,5 @@
     <string>btn_Chat_Keyboard_Press.png</string>
   </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>ballUI_1_0.json</CurrentUIJson>
+  <CurrentUIJson>ballUI_3_0.json</CurrentUIJson>
 </UIProject>
